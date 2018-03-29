@@ -1,9 +1,9 @@
 class Nanoscope < Formula
-  version "0.2.0"
+  version "0.2.1"
   desc "NanoScope"
   homepage "https://github.com/uber/nanoscope"
-  url "https://s3-us-west-2.amazonaws.com/uber-common-public/nanoscope/nanoscope-0.2.0.zip"
-  sha256 "956bff678dd70f7cd0c1c539d8b7049547109724dc614b1dc09fea30af5d0eda"
+  url "https://s3-us-west-2.amazonaws.com/uber-common-public/nanoscope/nanoscope-0.2.1.zip"
+  sha256 "7ccde7a369e2e1fb1259cf92a51d770c3c8a2366d2dd57ff710051398acb7915"
 
   bottle :unneeded
 
