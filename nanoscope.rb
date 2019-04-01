@@ -13,11 +13,11 @@
 # limitations under the License.
 
 class Nanoscope < Formula
-  version "0.2.14"
+  version "0.2.15"
   desc "Nanoscope"
   homepage "https://github.com/uber/nanoscope"
-  url "https://github.com/uber/nanoscope/releases/download/0.2.14/nanoscope-0.2.14.zip"
-  sha256 "a3b3a638860beb10902e5ced4ec1c2d169c7cb29d3c9e830fa01aea60ec0b8b5"
+  url "https://github.com/uber/nanoscope/releases/download/0.2.15/nanoscope-0.2.15.zip"
+  sha256 "5fb16be9ac50e032d5f8f2d64096410f696607f112e3d8a818449f08c1a12ec7"
 
   bottle :unneeded
 
