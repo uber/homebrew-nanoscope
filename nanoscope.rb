@@ -19,8 +19,6 @@ class Nanoscope < Formula
   url "https://github.com/uber/nanoscope/releases/download/0.2.19/nanoscope-0.2.19.zip"
   sha256 "c7e657d014ad62305b38eb65347458ec696a97d771e8cdf0ba6229b5d9b29bee"
 
-  bottle :unneeded
-
   def install
     bin.install "bin/nanoscope"
     bin.install "bin/_nanoscope"
